@@ -1,0 +1,17 @@
+.sizep {
+  font-size: 14px;
+}
+
+.social a {
+  text-decoration: none;
+}
+
+.social-i {
+  fill: #fff;
+  margin: 0 5px;
+  height: 32px;
+  background-color: rgb(255, 0, 89);
+  padding: 6px;
+  width: fit-content;
+  border-radius: 4px;
+}
